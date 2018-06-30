@@ -6,3 +6,11 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+## 基本使用
+
+```shell
+flutter run //运行应用
+r //hot reload
+R //重新build 加载
+```
